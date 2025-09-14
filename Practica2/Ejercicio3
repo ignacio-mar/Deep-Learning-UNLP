@@ -1,1 +1,14 @@
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import MinMaxScaler
+Perceptron={"w":np.array([0.0807,0.074]),"b":-0.0742}
+df=pd.DataFrame({"Edad":[50,51,54],"Riesgo":[1,2,3]})
+scaler=MinMaxScaler()
+df_norm=pd.DataFrame(scaler.fit_transform(df),columns=df.columns)
 
+x=df_norm.to_numpy()
+z=x@Perceptron["w"]+ Perceptron["b"]
+y_pred=(z>=0).astype(int)
+
+print("Valores z:",z)
+print("Predicciones:",y_pred)
