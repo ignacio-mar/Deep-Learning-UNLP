@@ -1,17 +1,17 @@
-# 🧠 Fundamentos y Aplicaciones del Aprendizaje Profundo (Deep Learning)
+#  Fundamentos y Aplicaciones del Aprendizaje Profundo (Deep Learning)
 
 Este documento contiene el material de estudio para analizar los fundamentos teóricos del Aprendizaje Automático, haciendo énfasis en el **Aprendizaje Profundo** y la construcción de **modelos predictivos**.
 
 ---
 
-## 🎯 I. Objetivos Centrales
+##  I. Objetivos Centrales
 
 1.  **Análisis Teórico:** Analizar los **fundamentos teóricos** del aprendizaje automático haciendo énfasis en el **aprendizaje profundo**.
 2.  **Resolución Práctica:** Resolver **problemas concretos** utilizando modelos predictivos construidos a partir de diversos métodos modernos.
 
 ---
 
-## II. 📖 Contenido del Programa
+## II.  Contenido del Programa
 
 ### 1. Introducción y Conceptos Fundamentales
 * **Orígenes y Ética:** Los orígenes y usos del aprendizaje automático, aciertos, límites y **aspectos éticos**.
@@ -27,7 +27,7 @@ Este documento contiene el material de estudio para analizar los fundamentos te�
 * **Clasificación:** **Regresión logística**. Clasificación binaria vs. clasificación multiclase.
 * **Redes Neuronales (Fundamentos):** Arquitectura **feedforward**. Algoritmo de entrenamiento **backpropagation**. Funciones de activación.
 
-### 4. 🚀 Deep Learning y Arquitecturas Avanzadas
+### 4.  Deep Learning y Arquitecturas Avanzadas
 * **Backpropagation Profunda:** **Lenguajes tensoriales**. Tipos de capas.
 * **Redes Neuronales Convolucionales (CNNs):** Capas convolucionales, Max Pooling, y **visualización de la red**.
 * **Series Temporales:** Modelos de Deep Learning para Series Temporales.
@@ -35,7 +35,7 @@ Este documento contiene el material de estudio para analizar los fundamentos te�
 
 ---
 
-## III. 📚 Bibliografía Recomendada
+## III.  Bibliografía Recomendada
 
 ### Referencias Básicas (Implementación)
 1.  François Chollet. **“Deep Learning with Python”**.
