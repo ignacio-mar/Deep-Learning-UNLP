@@ -1,14 +1,14 @@
-🧠 Fundamentos y Aplicaciones del Aprendizaje Profundo (Deep Learning)
+ Fundamentos y Aplicaciones del Aprendizaje Profundo (Deep Learning)
 Este repositorio contiene el material de estudio y los ejercicios prácticos para analizar los fundamentos teóricos del Aprendizaje Automático, con énfasis en la construcción y evaluación de Modelos de Aprendizaje Profundo.
 
-🎯 I. Objetivos Centrales
+ I. Objetivos Centrales
 Nuestro propósito es doble:
 
 Análisis Teórico: Analizar los fundamentos teóricos del Aprendizaje Automático haciendo énfasis en el Aprendizaje Profundo.
 
 Resolución Práctica: Resolver problemas concretos utilizando modelos predictivos construidos a partir de diversos métodos modernos.
 
-II. 📖 Contenido del Programa
+II.  CONTENIDO DEL PROGRAMA
 El curso se divide en módulos temáticos que cubren desde la teoría básica hasta las arquitecturas más avanzadas.
 
 1. Introducción y Conceptos Fundamentales
@@ -30,7 +30,7 @@ Regresión Lineal: Método analítico vs. Métodos iterativos. Descenso del grad
 
 Regresión Logística: Clasificación binaria vs. Clasificación multiclase.
 
-4. 🚀 Redes Neuronales y Deep Learning
+4.  Redes Neuronales y Deep Learning
 Fundamentos: Descripción de la arquitectura feedforward. Algoritmo de entrenamiento backpropagation. Funciones de activación.
 
 Grafo de Computación: Introducción a los Lenguajes Tensoriales. Tipos de capas en redes profundas.
@@ -42,7 +42,7 @@ Series Temporales: Características de una serie. Modelos de Deep Learning para 
 
 Redes Recurrentes (RNNs).
 
-III. 📚 Bibliografía Recomendada
+III.  Bibliografía Recomendada
 Referencias Básicas (Para la Implementación)
 François Chollet. “Deep Learning with Python” (Manning, 2021).
 
